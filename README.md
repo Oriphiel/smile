@@ -23,5 +23,5 @@ Proyecto en desarrollo.
 - Privacidad: Otros usuarios pueden ver y comentar aun sin ser amigos.
 
 
-### Funciones desarrorrándose:
+### Funciones desarrollándose:
 - Modulo de super administrador: permitira tener el control total de todo el sistema.
